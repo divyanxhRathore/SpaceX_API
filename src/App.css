@@ -1,0 +1,67 @@
+.heading{
+  display: flex;
+  justify-content: center;
+  background-color: #000;
+}
+
+h1{
+  color: #000;
+  font-weight: 400;
+}
+
+body{
+  background-color: #74EBD5;
+  background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  color: #000;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.rocketCard{
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.rocketCard img{
+  border-radius: 10px;
+}
+
+br{
+  height: 2px;
+  width: 100%;
+  background-color: #000;
+}
+
+.navigatorBtn{
+  background-color: #16a085 !important;
+  width: 100%;
+  border: none !important;
+  color: #000 !important;
+  font-weight: 500 !important;
+}
+
+.head{
+  width: 100%;
+  background-color: #16a085;
+  display: flex;
+  justify-content: center;
+  color: #2c3e50;
+}
+
+.rocket-details{
+  color: #000;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.card-title{
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
